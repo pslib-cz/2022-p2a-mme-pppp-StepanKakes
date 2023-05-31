@@ -17,12 +17,16 @@ To complete the project, you will need the following components:
 
 1. LED Strip 12V, 15cm, 60 LEDs/m (LED strip cuttable every 5cm), maximum width 1cm
    - Link: [LED Strip](https://www.aliexpress.com/item/1005004967933035.html?spm=a2g0o.productlist.main.25.3bbe23f8kSqNyD&algo_pvid=06079635-8ff7-4dec-a879-726505c34f48&algo_exp_id=06079635-8ff7-4dec-a879-726505c34f48-12&pdp_npi=3%40dis%21USD%211.82%210.49%21%21%21%21%21%402145279016855507342948026d0790%2112000031187418514%21sea%21CZ%210&curPageLogUid=7kCXokztJPnL)
+   - ![image](https://github.com/pslib-cz/2022-p2a-mme-pppp-StepanKakes/assets/91247524/e934a384-8107-484e-a76a-c0f691999bf6)
+
 
 2. 5V to 12V voltage converter module
    - Link: [Voltage Converter Module](https://www.aliexpress.com/item/1005004652993225.html?spm=a2g0o.productlist.main.15.7dd841c8xDaXlj&algo_pvid=0a37936b-7e3d-4da4-a127-fed2fc375a93&algo_exp_id=0a37936b-7e3d-4da4-a127-fed2fc375a93-7&pdp_npi=3%40dis%21USD%210.64%210.54%21%21%21%21%21%402100b78b16855505223763593d07b2%2112000029989214708%21sea%21CZ%210&curPageLogUid=DtPU7s1afTGN)
+  ![image](https://github.com/pslib-cz/2022-p2a-mme-pppp-StepanKakes/assets/91247524/a62da9fc-4841-4241-a03c-c68872e372ca)
 
 3. USB-C connector
    - Link: [USB-C Connector](https://www.aliexpress.com/item/1005005366459526.html?spm=a2g0o.productlist.main.1.1973281chbAlQy&algo_pvid=260ddf40-8ddd-4463-920a-8249704a16e4&algo_exp_id=260ddf40-8ddd-4463-920a-8249704a16e4-0&pdp_npi=3%40dis%21USD%212.33%211.21%21%21%21%21%21%402100b18f16855505922076539d078a%2112000032759156063%21sea%21CZ%210&curPageLogUid=EuXdn7Bztb9x)
+  ![image](https://github.com/pslib-cz/2022-p2a-mme-pppp-StepanKakes/assets/91247524/ffa64e0b-1b3a-44f8-bd02-4ac5197b704a)
 
 Please note that the provided links are from AliExpress and may not be accessible in all regions. You can search for similar components on other platforms or local electronics stores.
 

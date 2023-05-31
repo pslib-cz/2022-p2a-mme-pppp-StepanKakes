@@ -15,7 +15,7 @@ This documentation provides a list of the necessary components and instructions 
 
 To complete the project, you will need the following components:
 
-1. LED Strip 12V, 15cm, 60 LEDs/m, maximum width 1cm
+1. LED Strip 12V, 15cm, 60 LEDs/m (LED strip cutable every 5cm), maximum width 1cm
    - Link: [LED Strip](https://www.aliexpress.com/item/1005004967933035.html?spm=a2g0o.productlist.main.25.3bbe23f8kSqNyD&algo_pvid=06079635-8ff7-4dec-a879-726505c34f48&algo_exp_id=06079635-8ff7-4dec-a879-726505c34f48-12&pdp_npi=3%40dis%21USD%211.82%210.49%21%21%21%21%21%402145279016855507342948026d0790%2112000031187418514%21sea%21CZ%210&curPageLogUid=7kCXokztJPnL)
 
 2. 5V to 12V voltage converter module

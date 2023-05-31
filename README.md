@@ -9,8 +9,6 @@
 
 # Documentation for 3D Printed Illuminated Stand with Engraved Glass
 
-This documentation provides a list of the necessary components and instructions for assembling a 3D printed illuminated stand with engraved glass. The instructions are provided in English.
-
 ## Components
 
 To complete the project, you will need the following components:

@@ -17,16 +17,16 @@ To complete the project, you will need the following components:
 
 1. LED Strip 12V, 15cm, 60 LEDs/m (LED strip cuttable every 5cm), maximum width 1cm
    - Link: [LED Strip](https://www.aliexpress.com/item/1005004967933035.html?spm=a2g0o.productlist.main.25.3bbe23f8kSqNyD&algo_pvid=06079635-8ff7-4dec-a879-726505c34f48&algo_exp_id=06079635-8ff7-4dec-a879-726505c34f48-12&pdp_npi=3%40dis%21USD%211.82%210.49%21%21%21%21%21%402145279016855507342948026d0790%2112000031187418514%21sea%21CZ%210&curPageLogUid=7kCXokztJPnL)
-   - ![image](https://github.com/pslib-cz/2022-p2a-mme-pppp-StepanKakes/assets/91247524/e934a384-8107-484e-a76a-c0f691999bf6){:width="300px"}
+  <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-StepanKakes/assets/91247524/e934a384-8107-484e-a76a-c0f691999bf6" alt="Image" width="300">
 
 
 2. Mini DC-DC Boost Step Up Converter 5V to 12V
    - Link: [Voltage Converter Module](https://www.aliexpress.com/item/1005005099648987.html?spm=a2g0o.productlist.main.3.23635d9bmhGQgA&algo_pvid=c21850e6-72cd-494a-9bdb-dd5ce36bb292&algo_exp_id=c21850e6-72cd-494a-9bdb-dd5ce36bb292-1&pdp_npi=3%40dis%21USD%212.36%212.22%21%21%21%21%21%402145288516855635971621980d072e%2112000031657326408%21sea%21CZ%210&curPageLogUid=Magb7as1JShw)
-  ![image](https://github.com/pslib-cz/2022-p2a-mme-pppp-StepanKakes/assets/91247524/d65d6082-d1a1-4042-bb11-10e825dc906d)
+  <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-StepanKakes/assets/91247524/d65d6082-d1a1-4042-bb11-10e825dc906d" alt="Image" width="300">
 
 3. USB-C connector
    - Link: [USB-C Connector](https://www.aliexpress.com/item/1005005366459526.html?spm=a2g0o.productlist.main.1.1973281chbAlQy&algo_pvid=260ddf40-8ddd-4463-920a-8249704a16e4&algo_exp_id=260ddf40-8ddd-4463-920a-8249704a16e4-0&pdp_npi=3%40dis%21USD%212.33%211.21%21%21%21%21%21%402100b18f16855505922076539d078a%2112000032759156063%21sea%21CZ%210&curPageLogUid=EuXdn7Bztb9x)
-  ![image](https://github.com/pslib-cz/2022-p2a-mme-pppp-StepanKakes/assets/91247524/f3180fef-4baf-438d-a6b7-979127a7ca98){:width="300px"}
+  <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-StepanKakes/assets/91247524/f3180fef-4baf-438d-a6b7-979127a7ca98" alt="Image" width="300">
 
 Please note that the provided links are from AliExpress and may not be accessible in all regions. You can search for similar components on other platforms or local electronics stores.
 

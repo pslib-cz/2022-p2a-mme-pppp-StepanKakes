@@ -1,10 +1,10 @@
 - [ ] fotodokumentaci (případně video, je-li to vhodné) fyzického výstupu 
 - [ ] obrazovou dokumentaci pro replikování 
 - [ ] cenovou kalkulaci
-- [ ] kompletní součástkovou a materiálovou základnu 
+- [x] kompletní součástkovou a materiálovou základnu 
   - přesné názvy
   - odkazy na aliexpress nebo jiný relevantní eshop
-- [ ] pracovní postup 
+- [x] pracovní postup 
 - [x] relevantní data (modely, šablony, kód...) 
 
 # Documentation for 3D Printed Illuminated Stand with Engraved Glass

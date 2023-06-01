@@ -40,9 +40,6 @@ Please note that the provided links are from AliExpress and may not be accessibl
 8. Test the light by turning on the power source, If it blows up you're just stupid idiot and you fucked it up.
 
 # Price Calculation for Stand Realization
-
-This documentation provides a price calculation for the components required in the stand realization, along with the total cost.
-
 ## Components and Prices
 
 To complete the stand realization, you will need the following components:

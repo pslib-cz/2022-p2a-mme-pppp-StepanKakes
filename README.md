@@ -39,4 +39,24 @@ Please note that the provided links are from AliExpress and may not be accessibl
 7. Solder the USB-C connector to the input terminals of the voltage converter module, ensuring the polarity is correct.
 8. Test the light by turning on the power source, If it blows up you're just stupid idiot and you fucked it up.
 
+# Price Calculation for Stand Realization
+
+This documentation provides a price calculation for the components required in the stand realization, along with the total cost.
+
+## Components and Prices
+
+To complete the stand realization, you will need the following components:
+
+- Voltage Converter: US $2.36 / lot (10 pieces)
+- LED Strip (1m): US $0.49
+- USB-C Connector: US $0.48
+- PLA Filament: 73 grams
+
+Please note that the prices mentioned above are for reference only and may vary.
+
+## Price Calculation
+Final price for one stand: 2.1 USD
+
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/V-0A61vX)

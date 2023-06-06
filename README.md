@@ -32,13 +32,17 @@ Please note that the provided links are from AliExpress and may not be accessibl
 
 1. Begin by 3D printing the stand design according to your specifications, ensuring sufficient space for the components and glass engraving.
 2. Cut the LED strip to a length of 15cm, making sure to cut along the designated cutting points on the strip.
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-StepanKakes/20230606_190013.jpg" alt="Image" width="300">
 4. Attach the LED strip to the inner bottom side of the stand, positioning it to provide even illumination on the engraved glass surface.
-5. Solder the positive and negative terminals of the LED strip to the output terminals on the voltage converter module.
-6. Pull the cable through the hole in the stand.
-7. Snap the USB-C connector in place.
-8. Solder the USB-C connector to the input terminals of the voltage converter module, ensuring the polarity is correct.
-9. Test the light by turning on the power source, If it blows up you're just stupid idiot and you fucked it up.
+<img src="https://raw.githubusercontent.com/pslib-cz/2022-p2a-mme-pppp-StepanKakes/main/20230606_193710.jpg" alt="Image" width="300">
+6. Solder the positive and negative terminals of the LED strip to the output terminals on the voltage converter module.
+<img src="https://raw.githubusercontent.com/pslib-cz/2022-p2a-mme-pppp-StepanKakes/main/20230606_185625.jpg" alt="Image" width="300">
+8. Pull the cable through the hole in the stand.
+<img src="https://raw.githubusercontent.com/pslib-cz/2022-p2a-mme-pppp-StepanKakes/main/20230606_190013.jpg" alt="Image" width="300">
+10. Snap the USB-C connector in place.
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-StepanKakes/blob/main/20230606_184432.jpg" alt="Image" width="300">
+12. Solder the USB-C connector to the input terminals of the voltage converter module, ensuring the polarity is correct.
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-StepanKakes/blob/main/20230606_185906.jpg" alt="Image" width="300">
+14. Test the light by turning on the power source, If it blows up you're just stupid idiot and you fucked it up.
 
 # Price Calculation for Stand Realization
 ## Components and Prices

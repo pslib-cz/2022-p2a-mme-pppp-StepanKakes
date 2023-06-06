@@ -32,12 +32,13 @@ Please note that the provided links are from AliExpress and may not be accessibl
 
 1. Begin by 3D printing the stand design according to your specifications, ensuring sufficient space for the components and glass engraving.
 2. Cut the LED strip to a length of 15cm, making sure to cut along the designated cutting points on the strip.
-3. Attach the LED strip to the inner bottom side of the stand, positioning it to provide even illumination on the engraved glass surface.
-4. Solder the positive and negative terminals of the LED strip to the output terminals on the voltage converter module.
-5. Pull the cable through the hole in the stand.
-6. Snap the USB-C connector in place.
-7. Solder the USB-C connector to the input terminals of the voltage converter module, ensuring the polarity is correct.
-8. Test the light by turning on the power source, If it blows up you're just stupid idiot and you fucked it up.
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-StepanKakes/20230606_190013.jpg" alt="Image" width="300">
+4. Attach the LED strip to the inner bottom side of the stand, positioning it to provide even illumination on the engraved glass surface.
+5. Solder the positive and negative terminals of the LED strip to the output terminals on the voltage converter module.
+6. Pull the cable through the hole in the stand.
+7. Snap the USB-C connector in place.
+8. Solder the USB-C connector to the input terminals of the voltage converter module, ensuring the polarity is correct.
+9. Test the light by turning on the power source, If it blows up you're just stupid idiot and you fucked it up.
 
 # Price Calculation for Stand Realization
 ## Components and Prices

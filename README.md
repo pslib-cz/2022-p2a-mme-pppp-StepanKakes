@@ -7,7 +7,7 @@
 - [x] pracovní postup 
 - [x] relevantní data (modely, šablony, kód...) 
 
-# Documentation for 3D Printed Illuminated Stand with Engraved Glass
+# 3D Printed Illuminated Stand for Engraved Glass
 
 ## Components
 

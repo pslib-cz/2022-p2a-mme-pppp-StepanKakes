@@ -8,7 +8,7 @@
 - [x] relevantní data (modely, šablony, kód...) 
 
 # 3D Printed Illuminated Stand for Engraved Glass
-
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-StepanKakes/blob/main/20230620_101630.jpg" alt="Image" width="300">
 ## Components
 
 To complete the project, you will need the following components:

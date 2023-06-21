@@ -60,5 +60,3 @@ Please note that the prices mentioned above are for reference only and may vary.
 Final price for one stand: 2.1 USD
 
 
-
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/V-0A61vX)

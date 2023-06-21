@@ -1,12 +1,3 @@
-- [x] fotodokumentaci (případně video, je-li to vhodné) fyzického výstupu 
-- [x] obrazovou dokumentaci pro replikování 
-- [x] cenovou kalkulaci
-- [x] kompletní součástkovou a materiálovou základnu 
-  - přesné názvy
-  - odkazy na aliexpress nebo jiný relevantní eshop
-- [x] pracovní postup 
-- [x] relevantní data (modely, šablony, kód...) 
-
 # 3D Printed Illuminated Stand for Engraved Glass
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-StepanKakes/blob/main/images/20230620_101630.jpg" alt="Image" width="300">
 ## Components

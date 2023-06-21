@@ -54,9 +54,10 @@ To complete the stand realization, you will need the following components:
 - USB-C Connector: US $0.48
 - PLA Filament: 73 grams
 
+Final price for one stand: 2.1 USD
+
 Please note that the prices mentioned above are for reference only and may vary.
 
-## Price Calculation
-Final price for one stand: 2.1 USD
+
 
 

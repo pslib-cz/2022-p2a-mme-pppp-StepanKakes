@@ -1,5 +1,6 @@
 # Podsvícený stojan pro skleněnou gravírovanou tabulku
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-StepanKakes/blob/main/images/20230620_101630.jpg" alt="Obrázek" width="300">
+
 ## Komponenty
 
 Pro realizaci projektu budete potřebovat následující komponenty:

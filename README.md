@@ -1,6 +1,6 @@
-- [ ] fotodokumentaci (případně video, je-li to vhodné) fyzického výstupu 
-- [ ] obrazovou dokumentaci pro replikování 
-- [ ] cenovou kalkulaci
+- [x] fotodokumentaci (případně video, je-li to vhodné) fyzického výstupu 
+- [x] obrazovou dokumentaci pro replikování 
+- [x] cenovou kalkulaci
 - [x] kompletní součástkovou a materiálovou základnu 
   - přesné názvy
   - odkazy na aliexpress nebo jiný relevantní eshop
@@ -42,7 +42,7 @@ Please note that the provided links are from AliExpress and may not be accessibl
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-StepanKakes/blob/main/20230606_184432.jpg" alt="Image" width="300">
 12. Solder the USB-C connector to the input terminals of the voltage converter module, ensuring the polarity is correct.
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-StepanKakes/blob/main/20230606_185906.jpg" alt="Image" width="300">
-14. Test the light by turning on the power source, If it blows up you're just stupid idiot and you fucked it up.
+14. Test the light by turning on the power source.
 
 # Price Calculation for Stand Realization
 ## Components and Prices

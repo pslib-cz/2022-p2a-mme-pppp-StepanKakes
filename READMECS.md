@@ -5,7 +5,7 @@
 
 Pro realizaci projektu budete potřebovat následující komponenty:
 
-1. LED pásek 12V, 15 cm, 60 LED/m (pásek dělitlný každých 5cm), maximální šířka 1 cm
+1. LED pásek 12V, 15 cm, 60 LED/m (pásek dělitelný každých 5cm), maximální šířka 1 cm
    - Odkaz: [LED pásek](https://www.aliexpress.com/item/1005004967933035.html)
   <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-StepanKakes/assets/91247524/e934a384-8107-484e-a76a-c0f691999bf6" alt="Obrázek" width="300">
 
@@ -14,11 +14,11 @@ Pro realizaci projektu budete potřebovat následující komponenty:
    - Odkaz: [Konvertor napětí](https://www.aliexpress.com/item/1005005099648987.html)
   <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-StepanKakes/assets/91247524/d65d6082-d1a1-4042-bb11-10e825dc906d" alt="Obrázek" width="300">
 
-3. USB-C konektor
+3. USB-C Konektor
    - Odkaz: [USB-C konektor](https://www.aliexpress.com/item/1005005366459526.html)
   <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-StepanKakes/assets/91247524/f3180fef-4baf-438d-a6b7-979127a7ca98" alt="Obrázek" width="300">
 
-Prosím, uvědomte si, že poskytnuté odkazy jsou z AliExpressu a nemusí být přístupné ve všech regionech. Můžete hledat podobné komponenty na jiných platformách nebo v místních elektronických obchodech.
+Prosím, uvědomte si, že poskytnuté odkazy jsou z AliExpressu a nemusí být navždy přístupné. Můžete hledat podobné komponenty na jiných platformách nebo v místních elektronických obchodech.
 
 ## Montážní Instrukce
 
@@ -39,7 +39,7 @@ Prosím, uvědomte si, že poskytnuté odkazy jsou z AliExpressu a nemusí být 
 # Výpočet Ceny pro Realizaci Stojanu
 ## Komponenty a Ceny
 
-Pro dokončení realizace stojanu budete potřebovat následující komponenty:
+Pro realizaci stojanu budete potřebovat následující komponenty:
 
 - Konvertor napětí: 2,36 USD / balení (10 kusů)
 - LED páska (1m): 0,49 USD
